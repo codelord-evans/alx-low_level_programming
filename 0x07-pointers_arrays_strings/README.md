@@ -1,1 +1,1 @@
-this is a readme.md file for even more pointers and arrays 
+C - Even more pointers, arrays and strings
