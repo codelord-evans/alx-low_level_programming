@@ -1,4 +1,4 @@
-# Low-Level Programming Language and Data Structures
+# Low-Level Programming Language(C) and Data Structures
 
 This repository contains an implementation of a low-level programming language and various data structures. The goal of this project is to provide a simple yet powerful language and efficient data structures that can be used for system-level programming, embedded systems, and performance-critical applications.
 
